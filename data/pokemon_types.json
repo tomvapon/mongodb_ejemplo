@@ -1,0 +1,69 @@
+{
+    "pokemon_types": [
+      {
+        "type": "Grass",
+        "characteristics": {
+          "strengths": ["Water", "Ground", "Rock"],
+          "weaknesses": ["Fire", "Ice", "Poison", "Flying"],
+          "resistances": ["Electric", "Ground", "Water"]
+        }
+      },
+      {
+        "type": "Poison",
+        "characteristics": {
+          "strengths": ["Grass", "Fairy"],
+          "weaknesses": ["Ground", "Psychic"],
+          "resistances": ["Fighting", "Poison", "Bug", "Grass", "Fairy"]
+        }
+      },
+      {
+        "type": "Water",
+        "characteristics": {
+          "strengths": ["Fire", "Ground", "Rock"],
+          "weaknesses": ["Electric", "Grass"],
+          "resistances": ["Fire", "Ice", "Steel", "Water"]
+        }
+      },
+      {
+        "type": "Fire",
+        "characteristics": {
+          "strengths": ["Grass", "Bug", "Ice", "Steel"],
+          "weaknesses": ["Water", "Rock", "Fire"],
+          "resistances": ["Bug", "Fairy", "Fire", "Grass", "Ice", "Steel"]
+        }
+      },
+      {
+        "type": "Normal",
+        "characteristics": {
+          "strengths": [],
+          "weaknesses": ["Fighting"],
+          "resistances": ["Ghost"]
+        }
+      },
+      {
+        "type": "Bug",
+        "characteristics": {
+          "strengths": ["Grass", "Psychic", "Dark"],
+          "weaknesses": ["Fire", "Fighting", "Poison", "Flying", "Ghost", "Steel", "Fairy"],
+          "resistances": ["Fighting", "Ground", "Grass"]
+        }
+      },
+      {
+        "type": "Electric",
+        "characteristics": {
+          "strengths": ["Water", "Flying"],
+          "weaknesses": ["Ground"],
+          "resistances": ["Electric", "Flying", "Steel"]
+        }
+      },
+      {
+        "type": "Flying",
+        "characteristics": {
+          "strengths": ["Grass", "Fighting", "Bug"],
+          "weaknesses": ["Electric", "Rock", "Steel"],
+          "resistances": ["Bug", "Fighting", "Grass"]
+        }
+      }
+    ]
+  }
+  

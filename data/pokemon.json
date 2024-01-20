@@ -1,0 +1,224 @@
+{
+    "pokemon": [
+      {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": "Grass/Poison",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Bulbasaur evolves into Ivysaur at level 16",
+        "location": "Found in the wild or received from Professor Oak"
+      },
+      {
+        "id": 2,
+        "name": "Ivysaur",
+        "type": "Grass/Poison",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Ivysaur evolves into Venusaur at level 32",
+        "location": "Evolved from Bulbasaur"
+      },
+      {
+        "id": 3,
+        "name": "Venusaur",
+        "type": "Grass/Poison",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Venusaur is the final form of Bulbasaur",
+        "location": "Evolved from Ivysaur"
+      },
+      {
+        "id": 4,
+        "name": "Charmander",
+        "type": "Fire",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Charmander evolves into Charmeleon at level 16",
+        "location": "Received from Professor Oak"
+      },
+      {
+        "id": 5,
+        "name": "Charmeleon",
+        "type": "Fire",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Charmeleon evolves into Charizard at level 36",
+        "location": "Evolved from Charmander"
+      },
+      {
+        "id": 6,
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Charizard is the final form of Charmander",
+        "location": "Evolved from Charmeleon"
+      },
+      {
+        "id": 7,
+        "name": "Squirtle",
+        "type": "Water",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Squirtle evolves into Wartortle at level 16",
+        "location": "Received from Professor Oak"
+      },
+      {
+        "id": 8,
+        "name": "Wartortle",
+        "type": "Water",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Wartortle evolves into Blastoise at level 36",
+        "location": "Evolved from Squirtle"
+      },
+      {
+        "id": 9,
+        "name": "Blastoise",
+        "type": "Water",
+        "gender": {
+          "male": 87.5,
+          "female": 12.5
+        },
+        "evolution": "Blastoise is the final form of Squirtle",
+        "location": "Evolved from Wartortle"
+      },
+      {
+        "id": 10,
+        "name": "Caterpie",
+        "type": "Bug",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Caterpie evolves into Metapod at level 7",
+        "location": "Found in the wild"
+      },
+      {
+        "id": 11,
+        "name": "Metapod",
+        "type": "Bug",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Metapod evolves into Butterfree at level 10",
+        "location": "Evolved from Caterpie"
+      },
+      {
+        "id": 12,
+        "name": "Butterfree",
+        "type": "Bug/Flying",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Butterfree is the final form of Caterpie",
+        "location": "Evolved from Metapod"
+      },
+      {
+        "id": 13,
+        "name": "Weedle",
+        "type": "Bug/Poison",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Weedle evolves into Kakuna at level 7",
+        "location": "Found in the wild"
+      },
+      {
+        "id": 14,
+        "name": "Kakuna",
+        "type": "Bug/Poison",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Kakuna evolves into Beedrill at level 10",
+        "location": "Evolved from Weedle"
+      },
+      {
+        "id": 15,
+        "name": "Beedrill",
+        "type": "Bug/Poison",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Beedrill is the final form of Weedle",
+        "location": "Evolved from Kakuna"
+      },
+      {
+        "id": 16,
+        "name": "Pidgey",
+        "type": "Normal/Flying",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Pidgey evolves into Pidgeotto at level 18",
+        "location": "Found in the wild"
+      },
+      {
+        "id": 17,
+        "name": "Pidgeotto",
+        "type": "Normal/Flying",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Pidgeotto evolves into Pidgeot at level 36",
+        "location": "Evolved from Pidgey"
+      },
+      {
+        "id": 18,
+        "name": "Pidgeot",
+        "type": "Normal/Flying",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Pidgeot is the final form of Pidgey",
+        "location": "Evolved from Pidgeotto"
+      },
+      {
+        "id": 19,
+        "name": "Rattata",
+        "type": "Normal",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Rattata evolves into Raticate at level 20",
+        "location": "Found in the wild"
+      },
+      {
+        "id": 20,
+        "name": "Raticate",
+        "type": "Normal",
+        "gender": {
+          "male": 50,
+          "female": 50
+        },
+        "evolution": "Raticate is the final form of Rattata",
+        "location": "Evolved from Rattata"
+      }
+    ]
+}
